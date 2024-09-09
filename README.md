@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
 Name : MOONESH P
 Roll no : 212223230126
-Date of experiment : 19 AUGUST
+Date of experiment : 19-08-2024
 
 
 
